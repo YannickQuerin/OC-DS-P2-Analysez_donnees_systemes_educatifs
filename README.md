@@ -11,7 +11,7 @@ Ce projet vise à explorer des données éducatives et socio-économiques proven
 - Identification des pays cibles à fort potentiel  
 - Analyse exploratoire des indicateurs éducatifs, démographiques, économiques et techniques  
 
-![Contexte et Problématique (Diapo 2)](./images/diapo2_contexte.png)
+![Contexte et Problématique](Illustration_diapos/contexte.png)
 
 ---
 
